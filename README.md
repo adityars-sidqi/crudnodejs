@@ -1,2 +1,2 @@
 # crudnodejs
-CRUD pada Node.js menggunakan framework Express JS
+CRUD API pada Node.js menggunakan framework Express JS dan Mongoose
