@@ -1,0 +1,22 @@
+{
+  "name": "crudnodejs",
+  "version": "1.0.0",
+  "description": "CRUD pada Node.js menggunakan framework Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityars-sidqi/crudnodejs.git"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "Aditya Rahman Sidqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityars-sidqi/crudnodejs/issues"
+  },
+  "homepage": "https://github.com/adityars-sidqi/crudnodejs#readme"
+}
